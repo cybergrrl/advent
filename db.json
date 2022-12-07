@@ -1,0 +1,239 @@
+{
+    "resources": [
+        {
+            "object_id": 1,
+            "title": "Christmas, Bulgaria, 1980s",
+            "site_name": "Endangered Archives Programme",
+            "artist": "",
+            "creation_date": "early 1980s",
+            "notes": "The local Bulgarian men implement the custom of Koleduvane on Christmas. They enter every house and sing songs for health and material wealth.",
+            "web_link": "https://eap.bl.uk/item/EAP675-54-1-63",
+            "image_url": "https://images.eap.bl.uk/EAP675/EAP675_54_1/63.jp2/full/full/0/default.jpg"
+        },
+        {
+            "object_id": 2,
+            "title": "The Queen's Christmas Tree, 1857",
+            "site_name": "Shakespeare in the Royal Collection",
+            "artist": "Ernst Becker",
+            "creation_date": "24 December 1857",
+            "notes": "From an album of photographs collected and arranged by Prince Albert.",
+            "web_link": "https://sharc.kcl.ac.uk/objects/rct/2906247",
+            "image_url": "https://www.rct.uk/sites/default/files/730208-1515063468.jpg"
+        },
+        {
+            "object_id": 3,
+            "title": "Miss Kate Terry as a boy",
+            "site_name": "Shakespeare in the Royal Collection",
+            "artist": "Martin Laroche",
+            "creation_date": "24 December 1857",
+            "notes": "Given to Queen Victoria by Prince Albert as a Christmas gift.",
+            "web_link": "https://sharc.kcl.ac.uk/objects/rct/2909980",
+            "image_url": "https://www.rct.uk/sites/default/files/styles/rctr-scale-1300-500/public/comparison/before/900105-1561717523.jpg?itok=cVkn_a57"
+        },
+        {
+            "object_id": 4,
+            "title": "Figures Dancing Around a Fire",
+            "site_name": "Peck Collection",
+            "artist": "attributed to Pieter van Laer",
+            "creation_date": "c. 1635",
+            "notes": "The local Bulgarian men implement the custom of Koleduvane on Christmas. They enter every house and sing songs for health and material wealth.",
+            "web_link": "https://peck.ackland.org/artworks/figures-dancing-around-a-fire",
+            "image_url": "https://images.peck.cogapp.com/iiif/3/worksPrimary%2F2020.3.ptif/full/!768,768/0/default.png"
+        },
+        {
+            "object_id": 5,
+            "title": "Maria (The Return)",
+            "site_name": "Visual Commentary on Scripture",
+            "artist": "Anders Widoff",
+            "creation_date": "2005",
+            "notes": "The sculpture, commissioned by Uppsala Cathedral in 2003 and installed in 2005, answered their brief for a ‘visible reinstatement of the Virgin Mary inside the church’ after the upheavals of the Reformation.",
+            "web_link": "https://thevcs.org/blessed-mother/welcome-back",
+            "image_url": "https://images-live.thevcs.org/iiif/2/aw0913_anders-widoff_maria-the-return.ptif/full/!1200,600/0/default.jpg"
+        },
+        {
+            "object_id": 6,
+            "title": "Mosaic of Jesus and his ancestors",
+            "site_name": "Visual Commentary on Scripture",
+            "artist": "Unknown Byzantine artist",
+            "creation_date": "1315–21",
+            "notes": "The Genealogy of Christ is a fourteenth-century mosaic that decorates the southern dome of Chora Church, now the Kariye Museum, Istanbul.",
+            "web_link": "https://thevcs.org/genealogies-jesus/descendants-christ-pantocrator?first=6986",
+            "image_url": "https://images-live.thevcs.org/iiif/2/aw1014_unknown-byzantine-artist_mosaic-of-jesus-and-his-ancestors_alamyc5k1x9.ptif/full/!1200,600/0/default.jpg"
+        },
+        {
+            "object_id": 7,
+            "title": "Christmas Card: Angel",
+            "site_name": "Hammer Museum",
+            "artist": "Gerda Becker With",
+            "creation_date": "1953",
+            "notes": "The Genealogy of Christ is a fourteenth-century mosaic that decorates the southern dome of Chora Church, now the Kariye Museum, Istanbul.",
+            "web_link": "https://hammer.ucla.edu/collections/grunwald-center-collection/loss-and-restitution-the-story-of-the-grunwald-family-collection/art/art/untitled-christmas-card-angel",
+            "image_url": "https://hammer.ucla.edu/sites/default/files/styles/archive_artwork/public/migrated-assets/media/Digital_archives/Loss_and_Restitution/Artwork/1972.10.27.jpg?itok=9HCAe-gV"
+        },
+        {
+            "object_id": 8,
+            "title": "Christmas at Moose Factory",
+            "site_name": "Hammer Museum",
+            "artist": "Alanis Obomsawin",
+            "creation_date": "1971",
+            "notes": "Still from Native American short film. Crayon drawings come to life at Christmas.",
+            "web_link": "https://hammer.ucla.edu/programs-events/2014/12/family-flicks-native-american-shortshttps://hammer.ucla.edu/programs-events/2014/12/family-flicks-native-american-shorts",
+            "image_url": "https://hammer.ucla.edu//sites/default/files/styles/large/public/migrated-assets/media/programs/2014/12_December/CHRISTMA-1971-5_copy.jpg.jpeg?itok=6CYTDGYU"
+        },
+        {
+            "object_id": 9,
+            "title": "Beaver ornament",
+            "site_name": "Massachusetts Institute of Technology Museum",
+            "notes": "Felt stuffed beaver Christmas ornament with green holly.",
+            "web_link": "https://mitmuseum.mit.edu/collections/object/1987.023.048?query=christmas&page=10&resultIndex=114",
+            "image_url": "https://mitmuseum.mit.edu/_next/image?url=https%3A%2F%2Fres.cloudinary.com%2Fmitmuseum%2Fimage%2Fupload%2Ft_800%2Fmedia-internal%2F1987.023.048_2.jpg&w=1920&q=75"
+        },
+        {
+            "object_id": 10,
+            "title": "Instrumentation Laboratory Christmas party",
+            "site_name": "Massachusetts Institute of Technology Museum",
+            "creation_date": "1951",
+            "notes": "Black and white photo of party attendees lined to serve themselves at a long buffet table set with plates, food, candles and decorative arrangements.",
+            "web_link": "https://mitmuseum.mit.edu/collections/object/GCP-00006559?query=christmas&page=3&resultIndex=32",
+            "image_url": "https://mitmuseum.mit.edu/_next/image?url=https%3A%2F%2Fres.cloudinary.com%2Fmitmuseum%2Fimage%2Fupload%2Ft_800%2Fmedia-internal%2FGCP-00006559.jpg&w=1080&q=75"
+        },
+        {
+            "object_id": 11,
+            "title": "Christmas stocking",
+            "site_name": "Massachusetts Institute of Technology Museum",
+            "notes": "Christmas stocking with stocking stuffers (box of dominos, balsa wood glider shaped like Mrs. Santa Claus, magic trick, 2 bouncy balls, 1 hot wheel, one wood yoyo, one finger trap, a kazoo, a Santa Claus Pez dispenser, and a dreidel with chocolate coins). The stocking has the Boffo logo on it.",
+            "web_link": "https://mitmuseum.mit.edu/collections/object/2022.008.002.001a-k?query=christmas&resultIndex=1",
+            "image_url": "https://mitmuseum.mit.edu/_next/image?url=https://res.cloudinary.com/mitmuseum/image/upload/t_800/media-internal/2022.008.002.001a-k_1.jpg&w=1080&q=75"
+        },
+        {
+            "object_id": 12,
+            "title": "Miss Tait and Tommy and the Carol Singers",
+            "site_name": "University of Edinburgh Online Exhibitions",
+            "artist": "John Lawrence",
+            "creation_date": "1985",
+            "notes": "'Miss Tait and Tommy and the Carol Singers’ was originally published in Christmas Stories (Perpetua Press, 1985), a limited-edition, small press volume with wood engravings by John Lawrence. It was republished in Brown's The Masked Fisherman and Other Stories (John Murray, 1989) and can now be read in Christmas Stories, ed. William S. Peterson (Galileo Publishers, 2020). The printed version incorporates all the insertions and amendments in Edinburgh University Library's manuscript.",
+            "web_link": "https://exhibitions.ed.ac.uk/exhibitions/a-dream-of-snow",
+            "image_url": "https://exhibitions.ed.ac.uk/uploads/images/_720x680_fit_center-center_none/0184917c.jpeg"
+        },
+        {
+            "object_id": 13,
+            "title": "The Three Kings",
+            "site_name": "University of Edinburgh Online Exhibitions",
+            "artist": "David McClure",
+            "creation_date": "1966",
+            "notes": "Image by David McClure (1926-1998), which places the Magi against a backdrop of both ancient violence (the Massacre of the Innocents) and contemporary, mediatized warfare. According to the artist’s son, Robin McClure, former Director of Painting at The Scottish Gallery, ‘the linking of religious content to current strife and bloodshed was very much part of [McClure’s] publicly viewable work at the time’. Beginning with 'a series of enigmatic religiously-themed works' in the early 1960s, his paintings became more 'biting, gruesome and specific in their references', largely due to the ‘much publicized and often graphic’ media images of the First Mafia War, which broke out in 1962 in Sicily, where McClure had earlier lived and worked. We should like to thank Robin McClure for permission to exhibit his father’s design and for commenting on his father’s work.",
+            "web_link": "https://exhibitions.ed.ac.uk/exhibitions/a-dream-of-snow",
+            "image_url": "https://exhibitions.ed.ac.uk/uploads/images/_720xAUTO_fit_center-center_none/0184913c.jpeg"
+        },
+        {
+            "object_id": 14,
+            "title": "The Adoration of the Magi",
+            "site_name": "Kimbell Art Museum",
+            "artist": "after Jacopo Bassano",
+            "creation_date": "early 17th century",
+            "notes": "The subject of the Adoration of the Magi, along with the Adoration of the Shepherds, occupies pride of place in Jacopo Bassano's repertory. Jacopo and his family workshop produced several versions showing the three gift-bearing kings—traditionally representing three ages and three parts of the known world, including Africa—paying homage to the newborn Jesus as preeminent king.",
+            "web_link": "https://kimbellart.org/collection/ag-199001",
+            "image_url": "https://images.kimbellart.org/iiif/ag-1990.01.ptif/full/!512,512/0/default.jpg"
+        },
+        {
+            "object_id": 15,
+            "title": "Teiglach Recipe",
+            "site_name": "Yiddish Book Center",
+            "artist": "Cynthia Francis Gensheimer",
+            "creation_date": "early 17th century",
+            "notes": "I plotzed when I looked at the back cover of the Fall 2017 Pakn Treger and saw the illustration accompanying Sima Beeri’s lovely piece about teiglach. I never commented on the matzah that my local grocery store used to display every year alongside Chanukah candles and gelt, but I feel compelled to kvetch now to inform your readers that the teiglach that I love looks nothing like sufganiyot. Teiglach was my grandmother’s crowning dish, a delicacy that she made once a year for a sweet Rosh Hashanah. Even in the 1950s, few of her friends even attempted it, and the version offered up in bakeries was a soggy imitation of her gooey, candy-like confection.",
+            "web_link": "https://www.yiddishbookcenter.org/language-literature-culture/whats-new/pakn-treger-bonus-content/teiglach-recipe",
+            "image_url": "https://www.yiddishbookcenter.org/sites/default/files/styles/max_650x650/public/CFG%20Photo.jpg?itok=rOgxvv5g"
+        },
+        {
+            "object_id": 16,
+            "title": "Prairie Winter",
+            "site_name": "Clyfford Still Museum",
+            "artist": "Clyfford Still",
+            "creation_date": "1929-30",
+            "notes": "Abstract oil painting of a prairie winter scene and a train, grain silos, and smoke rising against a gray sky",
+            "web_link": "https://clyffordstillmuseum.org/blog/clyfford-stills-influences-the-west/",
+            "image_url": "https://stillmuseum.wpenginepowered.com/wp-content/uploads/2020/06/2x1_PH-623_v3.jpg"
+        },
+        {
+            "object_id": 17,
+            "title": "Snow Hill",
+            "site_name": "Visual Commentary on Scripture",
+            "artist": "Andrew Wyeth",
+            "creation_date": "1989",
+            "notes": "Six figures holding brightly coloured ribbons dance around a maypole incongruously jutting out of a snowy hilltop, overlooking train tracks, a fence, and some scattered rural buildings. A seventh ribbon floats untended. Atop the pole stands an evergreen tree, somehow both apart from and a part of what happens below.",
+            "web_link": "https://thevcs.org/infinite-calling/remembered-present",
+            "image_url": "https://images-live.thevcs.org/iiif/2/AW0733_Andrewsmaller.ptif/full/!1200,600/0/default.jpg"
+        },
+        {
+            "object_id": 18,
+            "title": "The Lost Path",
+            "site_name": "Visual Commentary on Scripture",
+            "artist": "Frederick Walker",
+            "creation_date": "1863",
+            "notes": "A woman clutching a baby is lost in the wilderness. Head bowed against the wind, she drags herself along a snow-laden path, protecting herself and her baby against the cold. The canvas is almost entirely white, representing heavy snowfall and enhancing the sense of disorientation. There is an absence of familiar reference points, either for the viewer or the subject of the painting—all seems lost.",
+            "web_link": "https://thevcs.org/hagars-exile-and-return/fallenfalling",
+            "image_url": "https://images-live.thevcs.org/iiif/2/AW0958_Frederick%20Walker_The_%20Lost_%20Path.ptif/full/!1200,600/0/default.jpg"
+        },
+        {
+            "object_id": 19,
+            "title": "Untitled #5",
+            "site_name": "Hammer Museum",
+            "artist": "Lari Pittman",
+            "creation_date": "2010",
+            "notes": "A major figure in the Los Angeles art world, Lari Pittman produces large-scale, graphic paintings whose surfaces are populated with colorful, clashing imagery. Pittman worked as an interior designer for a decade before turning to painting full-time, and his work conveys a fascination with decoration and artifice. “A reflective, sensational surface is still a conduit for meaning,” he has said.",
+            "web_link": "https://hammer.ucla.edu/collections/ucla-artists-in-the-hammer-museum-collections/art/untitled-5",
+            "image_url": "https://hammer.ucla.edu/sites/default/files/styles/archive_artwork/public/migrated-assets/media/Digital_archives/UCLA_Artists/Artwork/AH.2010.66.1.jpg?itok=bMfJPy0r"
+        },
+        {
+            "object_id": 20,
+            "title": "Machine Hallucinations: Nature Dreams",
+            "site_name": "Hammer Museum",
+            "artist": "Refik Anadol",
+            "creation_date": "2022",
+            "notes": "Machine Hallucinations: Nature Dreams is a long-term research project by Refik Anadol (b. 1985, Istanbul, Turkey) at the intersections of architecture, Artificial Intelligence-based digital art, and environmental aesthetics. The artwork is an AI data sculpture that draws upon a dataset of more than 300 million publicly available nature-related images of flowers, trees, mushrooms, landscapes, and clouds. This vast dataset is processed through a custom software developed by Anadol’s studio. A multisensory architectural exhibition of synesthetic reality experiments based on algorithms, Machine Hallucinations: Nature Dreams commemorates the inherent beauty of the planet Earth.",
+            "web_link": "https://hammer.ucla.edu/exhibitions/2022/refik-anadol-machine-hallucinations-nature-dreams",
+            "image_url": "https://hammer.ucla.edu/sites/default/files/styles/large/public/2022-10/MH---Perennial-Pigmentations---02N.jpg.jpeg?itok=wiiouz9V"
+        },
+        {
+            "object_id": 21,
+            "title": "Ice Scene with Two Men Push­ing a Sled",
+            "site_name": "Peck Collection",
+            "artist": "Ger­ard ter Borch",
+            "creation_date": "c. 1633-34",
+            "notes": "Dur­ing the sev­en­teenth cen­tu­ry in the Nether­lands, frigid tem­per­a­tures often endured for months, freez­ing canals, rivers, and water­ways that were, prag­mat­i­cal­ly, used by the Dutch peo­ple for both trans­porta­tion and recre­ation. Artists were espe­cial­ly inspired by their icy sur­round­ings, among them Ger­ard ter Borch, who com­plet­ed sev­er­al draw­ings of win­ter­time activ­i­ties around the age of six­teen. Here, two men push a woman in a sled with­out the aid of skates past cur­so­ri­ly drawn build­ings that per­haps rep­re­sent the city of Zwolle.",
+            "web_link": "https://peck.ackland.org/artworks/ice-scene-with-two-men-pushing-a-sled",
+            "image_url": "https://images.peck.cogapp.com/iiif/3/worksPrimary%2F2017.1.9.ptif/full/!1024,1024/0/default.png"
+        },
+        {
+            "object_id": 22,
+            "title": "Winter scene",
+            "site_name": "Peck Collection",
+            "artist": "Ger­rit Lam­berts",
+            "creation_date": "1816",
+            "notes": "A view of the Kleine Haarlemmersluis in win­ter with the Marte­laars­gracht beyond, seen from the Nieuwezijds Voor­burgwal",
+            "web_link": "https://peck.ackland.org/artworks/a-view-of-the-kleine-haarlemmersluis-in-winter-with-the-martelaarsgracht-beyond-seen-from-the-nieuwezijds-voorburgwal",
+            "image_url": "https://images.peck.cogapp.com/iiif/3/worksPrimary%2F2017.1.114.ptif/full/!1024,1024/0/default.png"
+        },
+        {
+            "object_id": 23,
+            "title": "Couple sitting by Christmas Tree at a party",
+            "site_name": "Endangered Archives Project",
+            "artist": "Jacques Toussele",
+            "creation_date": "c 1975-1976",
+            "notes": "The economic basis for professional black and white photography in Cameroon disappeared in 1998 with the introduction of new identity cards. They were issued with instant photographs, removing the need for 'passport photographs'. A small supporting industry of photographers, such as have been celebrated in exhibitions e.g. of the work of Seidou Keita, has effectively been destroyed. One such studio photographer is Jacques Toussele, with a collection of some 20,000 negatives, but who is aging and is not in the best of health. He can recognise many of the people in the photographs, enabling future research to be undertaken, thus greatly enhancing the importance of the archive. African black and white photography has been recognised as important through some celebrated exhibitions and publications (e.g. of Sidibé, Augustt and Keita) but this has not translated into action to preserve the work of other photographers. The aim of the project was to help protect the personal photographic archives of Mr J Toussele, a Cameroonian photographer in the town of Mbouda, Western Region, Cameroon. The archives represent a record of life in this area over the past thirty years.",
+            "web_link": "https://eap.bl.uk/item/EAP054-1-116-234#?xywh=-173%2C-863%2C3448%2C4691",
+            "image_url": "https://images.eap.bl.uk/EAP054/EAP054_1_116/234.jp2/full/!600,300/0/default.jpg"
+        },
+        {
+            "object_id": 24,
+            "title": "The Madonna and Child",
+            "site_name": "Kimbell Art Museum",
+            "artist": "Girolamo Francesco Maria Mazzola",
+            "creation_date": "c 1527–30",
+            "notes": "Hailed as the new Raphael, Parmigianino was one of the most influential artists of the sixteenth century, cultivating a mannered gracefulness of pose and physiognomy, combined with new and dramatic coloristic effects, that transformed the classicism of his Renaissance predecessors. Here, he draws upon the work of Leonardo, Raphael, and Michelangelo in counterposing the serenely pensive Virgin with her active Son, who tugs at his mother’s veil. But the compressed pose of the Christ Child and the tall, sweeping foreheads of mother and child introduce elements of Parmigianino’s distinctive Mannerism. The Virgin’s exquisite beauty is an outward sign of her inner grace, which Parmigianino reinforces through the golden strands of her ribboned hair and the fluid rhythms of her gossamer drapery.",
+            "web_link": "https://kimbellart.org/collection/ap-199509",
+            "image_url": "https://images.kimbellart.org/iiif/ap-1995.09.ptif/full/!512,512/0/default.jpg"
+        }
+    ]
+}
